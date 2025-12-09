@@ -7,8 +7,6 @@
 ---
 
 ## 📌 Overview
-(View this project on snowflake:*https://app.snowflake.com/sfedu02/nnb82355/#/notebooks/SNOWBEARAIR_DB.PUBLIC.%22JAGUAR%202025-11-17%2014%3A11%3A28%22*)
-
 This project analyzes Los Angeles building permit data to uncover **where**, **how**, and **by whom** residential home improvements occur across the city.
 Using **Snowflake Snowpark** for data processing and **Streamlit-in-Snowflake** for visualization, I built a fully interactive **multi-tab dashboard** that reveals deep patterns in:
 
